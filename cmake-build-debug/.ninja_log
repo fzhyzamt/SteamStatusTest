@@ -1,0 +1,4 @@
+# ninja log v5
+1	148	7004124406120696	build.ninja	881452b87bb12275
+3	424	6942948182567935	CMakeFiles/SteamStatusTest.dir/main.cpp.obj	8fc1af09eb8262ec
+425	535	6942948183658928	SteamStatusTest.exe	60ac29ea1dad9df8

@@ -1,0 +1,3 @@
+D:/source/self/SteamStatusTest/cmake-build-debug/CMakeFiles/SteamStatusTest.dir
+D:/source/self/SteamStatusTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/source/self/SteamStatusTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
